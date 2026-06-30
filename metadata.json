@@ -1,0 +1,8 @@
+{
+  "name": "Alex Valmyr Portfolio",
+  "description": "Minimalist premium portfolio of Alex Valmyr, Frontend & Full-Stack Developer specialized in Fintech and Web3 applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

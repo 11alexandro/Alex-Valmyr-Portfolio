@@ -1,11 +1,29 @@
-<div align="center">
+# Alex Valmyr — Developer Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Personal portfolio showcasing three full-stack fintech and Web3 projects built with React, TypeScript, Node.js, and Socket.IO.
 
-  <h1>Built with AI Studio</h2>
+## Live Portfolio
+🔗 [View Portfolio](#) *(deploy link)*
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Projects Featured
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+| Project | Stack | Live |
+|---|---|---|
+| ALCapTrade — Crypto Trading Terminal | React, TypeScript, Binance WebSocket | [aicaptrade.vercel.app](https://aicaptrade.vercel.app) |
+| ALCapital Governance — DAO Dashboard | React, Node.js, MongoDB, Socket.IO | [alcapital-governance-dashboard.vercel.app](https://alcapital-governance-dashboard.vercel.app) |
+| ALCrypto Pay — Freelance Escrow Platform | React, Node.js, TypeScript, Socket.IO | [aicrypto-pay.vercel.app](https://aicrypto-pay.vercel.app) |
 
-</div>
+## Tech Stack
+React 18 · TypeScript · Node.js · Express · Socket.IO · MongoDB · Tailwind CSS · Vite · Vercel
+
+## Run Locally
+```bash
+git clone https://github.com/11alexandro/alex-valmyr-portfolio.git
+cd alex-valmyr-portfolio
+npm install
+npm run dev
+```
+
+## Author
+**Alex Valmyr** — Full-Stack Developer focused on fintech, Web3, and payment infrastructure.
+GitHub: [11alexandro](https://github.com/11alexandro)
