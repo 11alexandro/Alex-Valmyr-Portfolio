@@ -18,4 +18,4 @@ React 18 · TypeScript · Node.js · Express · Socket.IO · MongoDB · Tailwind
 
 ## Author
 **Alex Valmyr** — Full-Stack Developer focused on fintech, Web3, and payment infrastructure.
-GitHub: [11alexandro](https://github.com/11alexandro)
+
