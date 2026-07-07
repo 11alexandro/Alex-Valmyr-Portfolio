@@ -1,4 +1,4 @@
-# Alex Valmyr — Developer Portfolio
+# Alex Valmyr - Developer Portfolio
 
 Personal portfolio showcasing three full-stack fintech and Web3 projects built with React, TypeScript, Node.js, and Socket.IO.
 
@@ -17,5 +17,5 @@ Personal portfolio showcasing three full-stack fintech and Web3 projects built w
 React 18 · TypeScript · Node.js · Express · Socket.IO · MongoDB · Tailwind CSS · Vite · Vercel
 
 ## Author
-**Alex Valmyr** — Full-Stack Developer focused on fintech, Web3, and payment infrastructure.
+**Alex Valmyr** - Full-Stack Developer focused on fintech, Web3, and payment infrastructure.
 
