@@ -3,7 +3,7 @@
 Personal portfolio showcasing three full-stack fintech and Web3 projects built with React, TypeScript, Node.js, and Socket.IO.
 
 ## Live Portfolio
-🔗 [alex-porfolio-ten.vercel.app](alex-porfolio-ten.vercel.app)
+🔗 [alex-valmyr-portfolio.vercel.app](alex-valmyr-portfolio.vercel.app)
 
 ## Projects Featured
 
